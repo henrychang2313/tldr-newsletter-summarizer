@@ -38,7 +38,6 @@ Gmail inbox
 * BeautifulSoup
 * Ollama
 * OpenAI Python SDK
-* python-dotenv
 
 This project runs locally and does not require paid model APIs.
 
@@ -55,7 +54,7 @@ newsletter-summaries/
 ├── .env
 ├── requirements.txt
 └── data/
-    └── newsletters_last_2_days.md
+    └── newsletters_today.md
 ```
 
 ## Setup
