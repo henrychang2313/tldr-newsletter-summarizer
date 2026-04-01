@@ -163,17 +163,6 @@ The result feels closer to a daily briefing than a simple summary.
 
   * everything runs from local scripts for now
 
-## Future improvements
-
-A few obvious next steps:
-
-* wrap the pipeline in FastAPI
-* create separate endpoints for headlines, companies, and trends
-* support multiple newsletter sources
-* add historical trend tracking
-* add vector search or RAG for longer time windows
-* build a simple frontend or dashboard
-
 ## Why local
 
 This project was designed to run locally for two reasons:
@@ -194,5 +183,4 @@ This started as a small automation project and turned into a lightweight local i
 
 It is still simple, but it already solves a real problem: turning a pile of newsletter emails into one readable daily summary.
 
-```
 ```
