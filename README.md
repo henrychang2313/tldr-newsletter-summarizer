@@ -1,7 +1,5 @@
 # tldr-newsletter-summarizer
 
-# Newsletter Intelligence
-
 This project pulls recent emails from a Gmail inbox, cleans and consolidates newsletter content into a single markdown file, and then uses a local LLM through Ollama to turn that content into a daily blog-style summary.
 
 The idea was simple: instead of reading several newsletters one by one, build a pipeline that collects everything, removes the noise, and produces one coherent write-up of what actually mattered.
